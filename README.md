@@ -1,3 +1,17 @@
+# 8位CPU的逻辑电路
+
+## 项目
+
+### 文件结构
+
+`main.circ` 为 Logisim Evolution 的项目文件；`main.CircuitProject` 为 LogicCircuit 的项目文件。
+
+由于 Logisim Evolution 性能有瓶颈，所以 `main.circ` 只开发了一部分，其余转向了 `main.CircuitProject`。
+
+### 参考
+
+[8位CPU设计与实现B站视频](https://www.bilibili.com/video/BV1aP4y1s7Vf/?spm_id_from=333.999.0.0&vd_source=24924a2b6e399f6354bb051bd87d3bb1)
+
 ### 半加器
 
 A、B 加数，S和，C进位
